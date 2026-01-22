@@ -1,0 +1,15 @@
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/bin/Debug/net8.0/ConsoleApp1
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/bin/Debug/net8.0/ConsoleApp1.dll
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.dll
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/nicolas/Homework/Gits/pleasw ork/Testxd/obj/Debug/net8.0/ref/ConsoleApp1.dll
